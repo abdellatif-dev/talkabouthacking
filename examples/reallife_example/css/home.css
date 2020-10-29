@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.name{
+  position: absolute;
+  left: 6%;
+  top: 7%;
+  size: 25px;
+  font-size: 25px;
+}
+
+
+.password{
+  position: relative;
+  left: 6%;
+  top: 7%;
+  size: 25px;
+  font-size: 25px;
+}
