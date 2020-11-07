@@ -55,7 +55,7 @@ now you're must be wondering what operating system hackers use? And the answer i
 
 2. distributions for expert and developers:
     * arch linux
-    
+
     * debian linux
     
 3. distributions for hackers
@@ -96,14 +96,14 @@ hacking is getting access to something you shouldn't have without leaving a trac
     * binary ninja
 
 * gathering informations or (exploiting):
-```seaching for weakness```
-    * searchsploit ```search for vulnerabilities```
+    * seaching for weakness
+    * searchsploit search for vulnerabilities
     * [CVE](https://cve.mitre.org/)
     * [google dorking](https://google.com/)
 
 * network:
-    * nmap ```scanning a sever/website ```
-    * gobuster ``` search for hidden directories```
+    * nmap scanning a sever/website 
+    * gobuster search for hidden directories
 
 * passcracking (**brute forcing** or **dictionary attack**):
     * john the ripper (offline)
@@ -118,10 +118,32 @@ hacking is getting access to something you shouldn't have without leaving a trac
         * **javascript**
 
 # tools
-* blackarch
-* kali linux
-* some of my scripts
-* Anonymous's tools
+    * blackarch
+    * kali linux
+    * some of my scripts
+    * Anonymous's tools
+
+# why i use GNU/linux in general
+    * workflow
+    * shortcuts
+    * freedom
+    * security   
+
+# my config 
+    * my window manager
+        * different between window manager and disktop environment
+        * my config folder
+
+    * polybar
+    * my script for workflow
+    * my run menu and focus scripts
+    * my favourite personnal softwares
+    * my text editor 
+        * main text editor
+        * IDE (Integrated development environment)
+
+    * my browser:
+        * brave
 
 # examples
 * reverse engineering
